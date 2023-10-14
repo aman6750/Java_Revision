@@ -2,7 +2,7 @@ Why hibernate?
 sol)
 -> Hibernate is an ORM software that gives abstraction over jdbc.
 1. Directly storing the java objects into the database table.
-2. No need to write boiler plate  code coding to perform crud operations. no need to handle the connections 
+2. No need to write boiler plate code coding to perform crud operations. no need to handle the connections 
 3. Managing Data Access Layer using Object Oriented Way.
 4. No need to deal with Mapping ResultSet to our domain class Objecct.
 5. Not required to handle too many exceptions.
