@@ -1,0 +1,33 @@
+Why hibernate?
+sol)
+-> Hibernate is an ORM software that gives abstraction over jdbc.
+1. Directly storing the java objects into the database table.
+2. No need to write boiler plate  code coding to perform crud operations. no need to handle the connections 
+3. Managing Data Access Layer using Object Oriented Way.
+4. No need to deal with Mapping ResultSet to our domain class Objecct.
+5. Not required to handle too many exceptions.
+****************************************************
+
+Why SpringBoot?
+sol)
+1. Provides a radically faster and widely accesible 'getting started' experience for all Spring Development.
+2. No Clumsy XML Configuration by developers.
+3. Provide opinionated 'starter' POMs to simplify your MAVEN Configuration
+4. Uses project management tool maven or gradle.
+5. help fast development and production ready code.
+6. Embed Tomcat,Jetty or Undertow directly(no need to deploy WAR files)
+7. In memory DB.
+****************************************************
+
+What i am going to learn in this block?
+1. maven, to build and manage application dependencies.
+2. ORM tool, Hibernate.
+3. Spring Core Introdution.
+4. Spring annotation based configuration.
+5. MVC model Introduction.
+6. Restfull Webservices.
+7. Spring Boot data jpa and IOC Container.
+8. introduction to cloud and AWS Services.
+
+
+
